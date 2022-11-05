@@ -3,6 +3,26 @@
     flex-direction: column;
 }
 
+.machine-container p {
+    margin: 0.5em;
+}
+
+.machine-container p span:nth-child(1) {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.machine-container p span:nth-child(2) {
+    vertical-align: baseline;
+}
+
+.mint-button {
+    background: linear-gradient(to right, #DC4F4D, #B15DA2, #F1EC3D, #97D01C, #1E5FE9);
+    background-size: 200% 200%;
+    animation: gradient-animation 4s ease infinite;
+    margin-left: 10px;
+}
+
 .gif-container {
     display: flex;
     flex-direction: column;
