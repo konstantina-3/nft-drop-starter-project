@@ -1,0 +1,21 @@
+{
+    "name": "Critsure #2",
+    "symbol": "CRITS",
+    "description": "Collection of 10 critsures on the blockchain. This is the number 3/10.",
+    "image": "2.png",
+    "attributes": [
+      {
+        "trait_type": "Number",
+        "value": "2"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
+  
